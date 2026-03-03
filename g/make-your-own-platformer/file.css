@@ -1,0 +1,21 @@
+@font-face {font-family: Anurli; src: url(Anurli-PzW3.ttf); }
+
+.input {
+font-size: 14px;
+border-radius: 16px;
+transition-duration: 0.5s;
+font-family: Anurli;
+background-color: #fff6f2;
+color: #0a0100;
+}
+
+.input:hover {
+border-radius: 4px;
+background-color: #0a0100;
+color: #fff6f2;
+}
+
+.checkbox {
+width: 20px;
+height: 20px;
+}
